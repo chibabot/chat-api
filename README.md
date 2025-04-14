@@ -23,7 +23,6 @@ REST API приложение на Laravel 12 с использованием JW
 ```bash
 # Клонирование репозитория
 git clone https://github.com/chibabot/chat-api.git
-cd chat-api
 
 # Копирование .env файла
 cp .env.example .env
